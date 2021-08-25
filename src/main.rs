@@ -1,9 +1,9 @@
 // mod print;
 // mod vectors;
-mod conditionals;
+mod loops;
 
 
 fn main() {
-    conditionals::run();
+    loops::run();
 }
 
