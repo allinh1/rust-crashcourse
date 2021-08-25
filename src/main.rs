@@ -1,10 +1,11 @@
 // mod print;
 // mod vectors;
 // mod loops;
-mod emus;
+// mod emus;
+mod cli;
 
 
 fn main() {
-    emus::run();
+    cli::run();
 }
 
