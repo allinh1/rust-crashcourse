@@ -1,9 +1,10 @@
 // mod print;
 // mod vectors;
-mod loops;
+// mod loops;
+mod emus;
 
 
 fn main() {
-    loops::run();
+    emus::run();
 }
 
